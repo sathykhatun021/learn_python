@@ -1,0 +1,11 @@
+variable1= input('Enter first Number: ')
+variable2= input('Enter second Number: ')
+print('type of variable1 is',type(variable1))
+print('type of variable2 is',type(variable2))
+print('The number is: ', int(variable1) + int(variable2))
+
+a=int(input('fist no: '))
+b=float(input('second no: '))
+print('type of a: ',type(a))
+print('type of b: ',type(b))
+print('Result is: ', a+b)
